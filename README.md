@@ -5,7 +5,10 @@
 
 ![方法一](https://github.com/TurnTears/ImageRecyclerView/blob/4cf66e08a561a6b3de1e9f1a3970fc4c73bd1fc2/img/1.gif)
 
-![思路一](https://github.com/TurnTears/ImageRecyclerView/blob/fa97576ca5c065aaf12e7e0178bcde7c1faa7ce5/img/1.png)
+![思路一](https://github.com/TurnTears/ImageRecyclerView/blob/5edb449b8a926540aca5e32213a2a57ce998e33a/img/1.png)
+
+
+
 * 方法二
 
 ![方法二](https://github.com/TurnTears/ImageRecyclerView/blob/4cf66e08a561a6b3de1e9f1a3970fc4c73bd1fc2/img/2.gif)
