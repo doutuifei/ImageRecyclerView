@@ -12,4 +12,5 @@
         android:text="text"
         android:textColor="@android:color/white"
         android:textSize="18sp" />
+
 </FrameLayout>
